@@ -23,5 +23,5 @@ Demo
 	![askingforinput](catUI.JPG)
 
 
-- Shows converted years<br />
+- Shows converted years ("Number of years is: 35")<br />
 	![showsconvertedyears](catinaction.JPG)
