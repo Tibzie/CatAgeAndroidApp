@@ -15,4 +15,5 @@ Demo
 
 
 - Shows converted years<br />
+("The number of years is: 35")
 	![showsconvertedyears](catinaction.JPG)
